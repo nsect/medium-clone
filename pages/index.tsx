@@ -28,7 +28,7 @@ export default function Home({ posts }: Props) {
               {' '}to the nsect development blog
             </h1>
             <h2>
-              Here you will find blogs about programming and business process and tools.
+              Here you will find blog posts about programming and business tools and other fine topics.
             </h2>
           </div>
           <img
