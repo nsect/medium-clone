@@ -21,7 +21,7 @@ function Header() {
       <div className="flex items-center space-x-5 text-green-600">
         
         <h3 className="border px-4 py-1 rounded-full border-green-600">
-          Get Notified
+          <a href="https://nsectdevelopment.com">Back to nsect dev</a>
         </h3>
       </div>
     </header>
