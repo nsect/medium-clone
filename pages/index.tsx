@@ -50,7 +50,7 @@ export default function Home({ posts }: Props) {
                         <p className='text-lg font-bold'>{post.title}</p>
                         <p className='text-xs'>{post.description} by {post.author.name}</p>
                       </div>
-                      <img className='h-12 w-12 rounded-full' src={urlFor(post.author.image).url()!} alt="" />
+                      {/* <img className='h-12 w-12 rounded-full' src={urlFor(post.author.image).url()!} alt="" /> */}
                     </div>
                   </div>
                 </Link>
