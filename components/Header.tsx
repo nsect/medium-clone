@@ -6,7 +6,7 @@ function Header() {
         <Link href="/">
           <img
             className="logo object-contain cursor-pointer"
-            src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"
+            src="/assets/logo.png"
             alt="logo"
           />
         </Link>
